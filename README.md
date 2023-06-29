@@ -1,6 +1,6 @@
 # 南洋理工大学商业AI实验室
 
-*科研小组成员*
+*暑期科研成员*
 
 -	以共同第一作者身份在IEEE学术会议ISCID 2022发表论文（EI检索），论文题目为 *Optimization of CNN for Diagnosis on Lung Disease by Lung Segmentation and Rib Suppression*
 
